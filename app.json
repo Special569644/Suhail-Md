@@ -7,7 +7,7 @@
   "app_url": "/qr/",
   
   "env": {
-    "OWNER_NAME": {
+    "OWNER_NAME": {INNOCENT
       "description": "Name for Bot Owner",    
       "value": "Suhail Ser",
       "required" :true
