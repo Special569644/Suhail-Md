@@ -74,10 +74,10 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.1",
   caption : process.env.CAPTION || "©sᴜʜᴀɪʟ²²¹-ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "INNO♡CENT",
+  author : process.env.PACK_AUTHER|| "MAX",
   packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "CHI♧MAKU",
-  ownername:process.env.OWNER_NAME|| "INNOCENT",
+  botname : process.env.BOT_NAME  || "MAX",
+  ownername:process.env.OWNER_NAME|| "MAX",
 
 
   errorChat : process.env.ERROR_CHAT || "",
